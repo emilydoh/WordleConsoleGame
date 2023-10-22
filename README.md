@@ -10,7 +10,6 @@ This is a command-line based implementation of the popular word-guessing game Wo
 ## Playing the Game
 1. Press ENTER to start a new game
 2. Enter your guess, you only get 6 so guess wisely
-3. 
 
 ### In-game screenshots:
 ![Screenshot 2023-08-27 210929](https://github.com/emilydoh/WordleConsoleGame/assets/113153067/1da10db0-a3ca-4ccd-8beb-0fc66fce8675)
